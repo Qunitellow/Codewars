@@ -1,4 +1,4 @@
-package codewars.equalSidesOfAnArray;
+package java_tasks.equalSidesOfAnArray;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

@@ -1,4 +1,4 @@
-package codewars.findShort;
+package java_tasks.findShort;
 
 import java.util.Arrays;
 import java.util.Collections;
