@@ -1,5 +1,8 @@
-package java_tasks.order;
+package java_tasks;
 
+/*
+https://www.codewars.com/kata/55c45be3b2079eccff00010f
+*/
 public class Order {
     public static String order(String words) {
         if (words.isEmpty()) {

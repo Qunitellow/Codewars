@@ -1,5 +1,8 @@
-package java_tasks.prodFib;
+package java_tasks;
 
+/*
+https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+*/
 public class ProdFib {
     public static long[] productFib(long prod) {
         long num1 = 0;

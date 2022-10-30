@@ -1,5 +1,8 @@
-package java_tasks.snail;
+package java_tasks;
 
+/*
+https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+*/
 public class Snail {
     public static int[] snail(int[][] array) {
         if (array[0].length == 0)

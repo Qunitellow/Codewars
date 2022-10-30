@@ -1,5 +1,8 @@
-package java_tasks.humanReadableTime;
+package java_tasks;
 
+/*
+https://www.codewars.com/kata/52685f7382004e774f0001f7
+*/
 public class HumanReadableTime {
     public static String makeReadable(int input) {
     if (input > 359999) return null;

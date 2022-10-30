@@ -1,5 +1,8 @@
-package java_tasks.rangeExtraction;
+package java_tasks;
 
+/*
+https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+*/
 class RangeExtraction {
     public static String rangeExtraction(int[] arr) {
         StringBuilder sb = new StringBuilder();
